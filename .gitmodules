@@ -1,0 +1,6 @@
+[submodule "UnitySimpleMonetizationSamples/Assets/unity-simple-monetization"]
+	path = UnitySimpleMonetizationSamples/Assets/unity-simple-monetization
+	url = ../unity-simple-monetization.git
+[submodule "UnitySimpleMonetizationSamples/Assets/unity-simple-monetization-admob"]
+	path = UnitySimpleMonetizationSamples/Assets/unity-simple-monetization-admob
+	url = ../unity-simple-monetization-admob.git
